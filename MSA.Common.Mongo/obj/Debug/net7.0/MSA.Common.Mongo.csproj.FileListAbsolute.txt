@@ -1,0 +1,15 @@
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.csproj.AssemblyReference.cache
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.AssemblyInfoInputs.cache
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.AssemblyInfo.cs
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.csproj.CoreCompileInputs.cache
+D:\Learning\MSA\MSA.Common.Mongo\bin\Debug\net7.0\MSA.Common.Mongo.deps.json
+D:\Learning\MSA\MSA.Common.Mongo\bin\Debug\net7.0\MSA.Common.Mongo.dll
+D:\Learning\MSA\MSA.Common.Mongo\bin\Debug\net7.0\MSA.Common.Mongo.pdb
+D:\Learning\MSA\MSA.Common.Mongo\bin\Debug\net7.0\MSA.Common.Contracts.dll
+D:\Learning\MSA\MSA.Common.Mongo\bin\Debug\net7.0\MSA.Common.Contracts.pdb
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.csproj.CopyComplete
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.dll
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\refint\MSA.Common.Mongo.dll
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\MSA.Common.Mongo.pdb
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net7.0\ref\MSA.Common.Mongo.dll

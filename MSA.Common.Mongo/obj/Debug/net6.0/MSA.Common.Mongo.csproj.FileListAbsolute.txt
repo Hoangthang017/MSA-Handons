@@ -1,0 +1,5 @@
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net6.0\MSA.Common.Mongo.csproj.AssemblyReference.cache
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net6.0\MSA.Common.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net6.0\MSA.Common.Mongo.AssemblyInfoInputs.cache
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net6.0\MSA.Common.Mongo.AssemblyInfo.cs
+D:\Learning\MSA\MSA.Common.Mongo\obj\Debug\net6.0\MSA.Common.Mongo.csproj.CoreCompileInputs.cache

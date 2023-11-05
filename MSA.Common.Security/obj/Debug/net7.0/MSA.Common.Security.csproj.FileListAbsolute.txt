@@ -1,0 +1,15 @@
+D:\Learning\MSA\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Security.deps.json
+D:\Learning\MSA\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Security.dll
+D:\Learning\MSA\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Security.pdb
+D:\Learning\MSA\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Contracts.dll
+D:\Learning\MSA\MSA.Common.Security\bin\Debug\net7.0\MSA.Common.Contracts.pdb
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.csproj.AssemblyReference.cache
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.AssemblyInfoInputs.cache
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.AssemblyInfo.cs
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.csproj.CoreCompileInputs.cache
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.csproj.CopyComplete
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.dll
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\refint\MSA.Common.Security.dll
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\MSA.Common.Security.pdb
+D:\Learning\MSA\MSA.Common.Security\obj\Debug\net7.0\ref\MSA.Common.Security.dll

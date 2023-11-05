@@ -1,0 +1,17 @@
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\bin\Debug\net7.0\MSA.Common.PostgresMassTransit.deps.json
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\bin\Debug\net7.0\MSA.Common.PostgresMassTransit.runtimeconfig.json
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\bin\Debug\net7.0\MSA.Common.PostgresMassTransit.dll
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\bin\Debug\net7.0\MSA.Common.PostgresMassTransit.pdb
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\bin\Debug\net7.0\MSA.Common.Contracts.dll
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\bin\Debug\net7.0\MSA.Common.Contracts.pdb
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.csproj.AssemblyReference.cache
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.AssemblyInfoInputs.cache
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.AssemblyInfo.cs
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.csproj.CoreCompileInputs.cache
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.csproj.CopyComplete
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.dll
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\refint\MSA.Common.PostgresMassTransit.dll
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.pdb
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\MSA.Common.PostgresMassTransit.genruntimeconfig.cache
+D:\Learning\MSA\MSA.Common.PostgresMassTransit\obj\Debug\net7.0\ref\MSA.Common.PostgresMassTransit.dll
