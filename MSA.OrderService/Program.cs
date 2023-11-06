@@ -5,12 +5,10 @@ using MSA.OrderService.Services;
 using MSA.Common.PostgresMassTransit.MassTransit;
 using MSA.OrderService.StateMachine;
 using MassTransit;
- using MSA.OrderService.StateMachine;
- using MassTransit;
- using MassTransit.EntityFrameworkCoreIntegration;
- using Microsoft.EntityFrameworkCore;
- using MSA.OrderService.Infrastructure.Saga;
- using System.Reflection;
+using MassTransit.EntityFrameworkCoreIntegration;
+using Microsoft.EntityFrameworkCore;
+using MSA.OrderService.Infrastructure.Saga;
+using System.Reflection;
 using MSA.Common.Contracts.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,6 +20,7 @@ builder.Services
     .AddPostgres<MainDbContext>()
     .AddPostgresRepositories<MainDbContext, Order>()
     .AddPostgresRepositories<MainDbContext, Product>()
+    .AddPostgresRepositories<MainDbContext, Payment>()
     .AddPostgresUnitofWork<MainDbContext>()
     // .AddMassTransitWithRabbitMQ();
      .AddMassTransitWithPostgresOutbox<MainDbContext>(cfg => {

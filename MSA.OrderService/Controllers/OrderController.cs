@@ -26,7 +26,8 @@ public class OrderController : ControllerBase
         PostgresUnitOfWork<MainDbContext> uow,
         IProductService productService,
         ISendEndpointProvider sendEndpointProvider,
-        IPublishEndpoint publishEndpoint
+        IPublishEndpoint publishEndpoint,
+        IPaymentService paymentService
         )
     {
         this.repository = repository;

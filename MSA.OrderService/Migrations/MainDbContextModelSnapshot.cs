@@ -62,6 +62,26 @@ namespace MSA.OrderService.Migrations
                     b.ToTable("order_details", "Order");
                 });
 
+            modelBuilder.Entity("MSA.OrderService.Domain.Payment", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("OrderId")
+                        .HasColumnType("uuid");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("integer");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("payments", "Order");
+                });
+
             modelBuilder.Entity("MSA.OrderService.Domain.Product", b =>
                 {
                     b.Property<Guid>("Id")

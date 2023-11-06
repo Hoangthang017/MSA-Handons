@@ -46,6 +46,12 @@ namespace MSA.OrderService.Infrastructure.Data
             modelBuilder.Entity<Product>().Property(x => x.Id)
                 .HasColumnType("uuid");
                 
+            //Payment
+            modelBuilder.Entity<Payment>().ToTable("payments");
+            modelBuilder.Entity<Payment>().HasKey(x => x.Id);
+            modelBuilder.Entity<Payment>().Property(x => x.Id)
+                .HasColumnType("uuid");
+
             //Relationship
             modelBuilder.Entity<Order>()
                 .HasMany(x => x.OrderDetails);
